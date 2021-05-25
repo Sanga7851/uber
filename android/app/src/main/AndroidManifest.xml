@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.uber">
+    package="com.sanga.uber">
    <application
         android:label="uber"
         android:icon="@mipmap/ic_launcher">

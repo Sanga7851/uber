@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263771472637",
+    "firebase_url": "https://uber-43a13-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uber-43a13",
+    "storage_bucket": "uber-43a13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263771472637:android:a0f1f57814d85f79647494",
+        "android_client_info": {
+          "package_name": "com.sanga.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263771472637-2na47vq6h23g92f0e2nnh8n3m8dosb95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSyn4kVDTlvsIDp9unFRKAcg6i7xE92pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263771472637-2na47vq6h23g92f0e2nnh8n3m8dosb95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

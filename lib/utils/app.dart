@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:uber/screens/main/main_screen.dart';
+import 'package:uber/utils/routes.dart';
+import 'package:uber/utils/theme.dart';
 
 class App extends StatelessWidget {
   @override
@@ -6,10 +9,9 @@ class App extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: "Uber App",
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
-      home: Text("Hello World"),
+      theme: theme,
+      initialRoute: MainScreen.routeName,
+      routes: routes,
     );
   }
 }
